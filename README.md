@@ -1,5 +1,5 @@
 # humanlikelearn
-It also appears at:
+Latest version(s) can be found at:
 https://dspace.mit.edu/handle/1721.1/111654
 
 Note:
